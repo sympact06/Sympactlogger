@@ -9,7 +9,7 @@ licensekey = "KEY_HERE"
 pingeveryone = False
 # Ping here when your logger has logged something!
 pinghere = False
-# Paste your webhook URL here!
+# Paste your webhook URL here!!
 webhookurl = "WEBHOOK_HERE"
 
 
