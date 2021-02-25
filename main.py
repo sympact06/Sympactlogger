@@ -1,6 +1,5 @@
 import os #line:4
 import re #line:5
-import requests #line:6
 import json #line:7
 import config as configfile #line:8
 from tkinter import *#line:9
