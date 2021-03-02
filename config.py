@@ -19,10 +19,3 @@ webhookurl = "WEBHOOK_HERE"
 
 
 
-### DEBUG #####
-#### THIS IS NOT READY YET ####
-supersecretpin = ""
-devmode = False
-debug = False
-kankersoon = ""
-enabledkanker = False
