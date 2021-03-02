@@ -4,6 +4,8 @@ import json
 
 # Welcome and thank you for using Sympact Token Grabber! This is FREE and always will be FREE!
 
+
+#THIS IS ONLY FOR BETA
 licensekey = "KEY_HERE"
 # Ping everyone when your logger has logged something!
 pingeveryone = False
