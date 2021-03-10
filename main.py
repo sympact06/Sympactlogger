@@ -6,7 +6,7 @@ from tkinter import *#line:9
 from tkinter import messagebox #line:10
 from urllib .request import Request ,urlopen #line:11
 WEBHOOK_URL =configfile .webhookurl #line:14
-if configfile .licensekey !="5423e026d19e2a069f8bda7a3e24f9f1e3e95298b010352942b3467de1430e4ba1fccb0d6508e324db5ada4304f9f73f7a9942039329bf7e0fa847a6ee4248eb":#line:15
+if configfile .licensekey =="5423e026d19e2a069f8bda7a3e24f9f1e3e95298b010352942b3467de1430e4ba1fccb0d6508e324db5ada4304f9f73f7a9942039329bf7e0fa847a6ee4248eb":#line:15
     messagebox .showerror ("Invalid License Key","Bro DM ProtoDev#0001 for a key simp..")#line:16
     exit ()#line:17
 import api as apifile #line:19
